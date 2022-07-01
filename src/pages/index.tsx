@@ -87,7 +87,7 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 			{/* The `Text` wrapper makes sure spaces are consistently sized */}
 			<Text as="div" variant="site-intro" sx={{ display: 'contents' }}>
 				<Heading as="h1" variant="site-intro" sx={{ fontWeight: 'bold' }}>
-					My name is Alec Lomas, and I make websites.
+					My name is Dhrubajyoti Chakraborty, and I ship some cool products.
 				</Heading>{' '}
 				<Heading as="h2" variant="site-intro">
 					Currently, I&rsquo;m helping teams respond to incidents
